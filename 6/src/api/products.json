@@ -1,0 +1,299 @@
+{
+    "products": [
+      {
+        "id": "143671",
+        "title": "AURICULAR HAVIT TW907",
+        "description": "An apple mobile which is nothing like apple",
+        "price": 549,
+        "discountPercentage": 12.96,
+        "rating": 4.69,
+        "stock": 94,
+        "brand": "HAVIT",
+        "category": "smartphones",
+        "thumbnail": "https://i.dummyjson.com/data/products/1/thumbnail.jpg",
+        "images": [
+          "https://medias.musimundo.com/medias/00421024-143671-143671-01-143671-01.jpg-size515?context=bWFzdGVyfGltYWdlc3wzOTI4M3xpbWFnZS9qcGVnfGgxNC9oYTUvMTAzODA3ODMyODgzNTAvMDA0MjEwMjQtMTQzNjcxLTE0MzY3MV8wMS0xNDM2NzFfMDEuanBnX3NpemU1MTV8MGI0MTZjODk4MzQ5MjE0ZWE2YzkyOThiMzVmNzNjY2M3ZWVmMWY3MGM4MzExOTIwMzk0NjQ4YjMwNTg3NzM2ZA",
+          "https://i.dummyjson.com/data/products/1/2.jpg",
+          "https://i.dummyjson.com/data/products/1/3.jpg",
+          "https://i.dummyjson.com/data/products/1/4.jpg",
+          "https://i.dummyjson.com/data/products/1/thumbnail.jpg"
+        ]
+      },
+      {
+        "id": "145412",
+        "title": "AURICULAR JBL W300TWSBLK",
+        "description": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with OLED technology A12 Bionic chip with ...",
+        "price": 899,
+        "discountPercentage": 17.94,
+        "rating": 4.44,
+        "stock": 34,
+        "brand": "Apple",
+        "category": "smartphones",
+        "thumbnail": "https://i.dummyjson.com/data/products/2/thumbnail.jpg",
+        "images": [
+          "https://medias.musimundo.com/medias/00640003-145412-145412-01-145412-01.jpg-size515?context=bWFzdGVyfGltYWdlc3wyOTQwMHxpbWFnZS9qcGVnfGg3Zi9oMzUvMTA0MzI5MzA3NzUwNzAvMDA2NDAwMDMtMTQ1NDEyLTE0NTQxMl8wMS0xNDU0MTJfMDEuanBnX3NpemU1MTV8MmNiMTQ5ZjlkM2I0ZmIxYmI1ZGY5YzE1ZDNhYzMxZDBmYzFmNzI2Mzc5MWEyNWE2YzVmZDZlNmE2ZjQ4MjJlOA",
+          "https://i.dummyjson.com/data/products/2/2.jpg",
+          "https://i.dummyjson.com/data/products/2/3.jpg",
+          "https://i.dummyjson.com/data/products/2/thumbnail.jpg"
+        ]
+      },
+      {
+        "id": "143757",
+        "title": "AURICULAR PANACOM BL-1375HSBL",
+        "description": "Samsung's new variant which goes beyond Galaxy to the Universe",
+        "price": 1249,
+        "discountPercentage": 15.46,
+        "rating": 4.09,
+        "stock": 36,
+        "brand": "Samsung",
+        "category": "smartphones",
+        "thumbnail": "https://i.dummyjson.com/data/products/3/thumbnail.jpg",
+        "images": [
+          "https://medias.musimundo.com/medias/00424008-143757-143757-01-143757-01.jpg-size515?context=bWFzdGVyfGltYWdlc3w0ODQ1NHxpbWFnZS9qcGVnfGgwMi9oZmQvMTAzODA4MDc0MzgzNjYvMDA0MjQwMDgtMTQzNzU3LTE0Mzc1N18wMS0xNDM3NTdfMDEuanBnX3NpemU1MTV8ZWFlYTQ0ZjZlZjQ3ZmFjOTg2N2QyZDBhNThkYmM5Mzg2OTNhYjgxNjhmYTUwNTBjOTA0ODE0OGZlMDZlNTJjNQ"
+        ]
+      },
+      {
+        "id": "143658",
+        "title": "AURICULAR HAVIT HV-H2178D",
+        "description": "OPPO F19 is officially announced on April 2021.",
+        "price": 280,
+        "discountPercentage": 17.91,
+        "rating": 4.3,
+        "stock": 123,
+        "brand": "OPPO",
+        "category": "smartphones",
+        "thumbnail": "https://i.dummyjson.com/data/products/4/thumbnail.jpg",
+        "images": [
+          "https://medias.musimundo.com/medias/00421013-143658-143658-01-143658-01.jpg-size515?context=bWFzdGVyfGltYWdlc3wzMDgwN3xpbWFnZS9qcGVnfGg2Ni9oMTYvMTAzODA3NzgzNzMxNTAvMDA0MjEwMTMtMTQzNjU4LTE0MzY1OF8wMS0xNDM2NThfMDEuanBnX3NpemU1MTV8ODE1ZWE1NzM3YWJhMjUzMjUwM2NlNTc1Zjc4NzRhMDNkOTdhNGU5ZmU5OWYxNmFjNTJjYzllMGE1NjkyZDk1Yg",
+          "https://i.dummyjson.com/data/products/4/2.jpg",
+          "https://i.dummyjson.com/data/products/4/3.jpg",
+          "https://i.dummyjson.com/data/products/4/4.jpg",
+          "https://i.dummyjson.com/data/products/4/thumbnail.jpg"
+        ]
+      },
+      {
+        "id": "139099",
+        "title": "AURICULAR NOGANET NG-903",
+        "description": "Huawei’s re-badged P30 Pro New Edition was officially unveiled yesterday in Germany and now the device has made its way to the UK.",
+        "price": 499,
+        "discountPercentage": 10.58,
+        "rating": 4.09,
+        "stock": 32,
+        "brand": "Huawei",
+        "category": "smartphones",
+        "thumbnail": "https://i.dummyjson.com/data/products/5/thumbnail.jpg",
+        "images": [
+          "https://medias.musimundo.com/medias/00295026-139099-139099-01-139099-01.jpg-size515?context=bWFzdGVyfGltYWdlc3wzNDA4NnxpbWFnZS9qcGVnfGgyNy9oZGEvMTAzNzkyODMxNjkzMTAvMDAyOTUwMjYtMTM5MDk5LTEzOTA5OV8wMS0xMzkwOTlfMDEuanBnX3NpemU1MTV8MmQxNGM0ZGE5MjUyMTcxNTNkNTEyNjRkODBlM2JhMDVjODlmZmNhZDdkNmI1MDcwZDJlYzYwMDRjZjQwMjMwOA",
+          "https://i.dummyjson.com/data/products/5/2.jpg",
+          "https://i.dummyjson.com/data/products/5/3.jpg"
+        ]
+      },
+      {
+        "id": "140804",
+        "title": "AURICULAR GAMER MARVO HG8929",
+        "description": "MacBook Pro 2021 with mini-LED display may launch between September, November",
+        "price": 1749,
+        "discountPercentage": 11.02,
+        "rating": 4.57,
+        "stock": 83,
+        "brand": "APPle",
+        "category": "laptops",
+        "thumbnail": "https://i.dummyjson.com/data/products/6/thumbnail.png",
+        "images": [
+          "https://medias.musimundo.com/medias/00319078-140804-140804-01-140804-01.jpg-size515?context=bWFzdGVyfGltYWdlc3wzNjQxMXxpbWFnZS9qcGVnfGgwNy9oODcvMTAzNzk4NjY1NzA3ODIvMDAzMTkwNzgtMTQwODA0LTE0MDgwNF8wMS0xNDA4MDRfMDEuanBnX3NpemU1MTV8M2I4NTViM2M4OTBmZmIyNjY1Mzk4NDNiNjkwNzVlYjk2MzJiZjE3MGExZmY0NTNlYTJkOTgzMWFiM2ExMDQ0Yw",
+          "https://i.dummyjson.com/data/products/6/2.jpg",
+          "https://i.dummyjson.com/data/products/6/3.png",
+          "https://i.dummyjson.com/data/products/6/4.jpg"
+        ]
+      },
+      {
+        "id": "177541",
+        "title": "CELULAR SAMSUNG S22 ULTRA",
+        "description": "Samsung Galaxy Book S (2020) Laptop With Intel Lakefield Chip, 8GB of RAM Launched",
+        "price": 1499,
+        "discountPercentage": 4.15,
+        "rating": 4.25,
+        "stock": 50,
+        "brand": "Samsung",
+        "category": "laptops",
+        "thumbnail": "https://i.dummyjson.com/data/products/7/thumbnail.jpg",
+        "images": [
+          "https://medias.musimundo.com/medias/00510013-145431-145431-01-145431-01.jpg-size515?context=bWFzdGVyfGltYWdlc3w2NDkwN3xpbWFnZS9qcGVnfGhmZC9oOWIvMTA0NDI4OTAzMTM3NTgvMDA1MTAwMTMtMTQ1NDMxLTE0NTQzMV8wMS0xNDU0MzFfMDEuanBnX3NpemU1MTV8Y2YzYWNiZDc0YjU5MDc5MjE4MzEwNTU3Nzc3YWRiZmIyYTBhZDA3M2Q5ODNkMjBjZThmZWVkMzkyOWE5OWY1Nw",
+          "https://i.dummyjson.com/data/products/7/2.jpg",
+          "https://i.dummyjson.com/data/products/7/3.jpg",
+          "https://i.dummyjson.com/data/products/7/thumbnail.jpg"
+        ]
+      },
+      {
+        "id": "116541",
+        "title": "CELULAR SAMSUNG SM-A336M",
+        "description": "Style and speed. Stand out on HD video calls backed by Studio Mics. Capture ideas on the vibrant touchscreen.",
+        "price": 1499,
+        "discountPercentage": 10.23,
+        "rating": 4.43,
+        "stock": 68,
+        "brand": "Microsoft Surface",
+        "category": "laptops",
+        "thumbnail": "https://i.dummyjson.com/data/products/8/thumbnail.jpg",
+        "images": [
+          "https://medias.musimundo.com/medias/00554014-146254-146254-01-146254-01.jpg-size515?context=bWFzdGVyfGltYWdlc3wxODc0NjB8aW1hZ2UvanBlZ3xoNGMvaGU3LzEwNDA2NzYyOTA1NjMwLzAwNTU0MDE0LTE0NjI1NC0xNDYyNTRfMDEtMTQ2MjU0XzAxLmpwZ19zaXplNTE1fGQxMmFlZDc3ZTc5ZDBiODdmZWFmNTVkNDgyY2I0NDNiYTQwYTU1NmY2Y2M2NDRlYWNmYjUyNGYwYzMyZDA4NjM",
+          "https://i.dummyjson.com/data/products/8/2.jpg",
+          "https://i.dummyjson.com/data/products/8/3.jpg",
+          "https://i.dummyjson.com/data/products/8/4.jpg",
+          "https://i.dummyjson.com/data/products/8/thumbnail.jpg"
+        ]
+      },
+      {
+        "id": "5451531",
+        "title": "CELULAR SAMSUNG GALAXY A13",
+        "description": "Infinix Inbook X1 Ci3 10th 8GB 256GB 14 Win10 Grey – 1 Year Warranty",
+        "price": 1099,
+        "discountPercentage": 11.83,
+        "rating": 4.54,
+        "stock": 96,
+        "brand": "Infinix",
+        "category": "laptops",
+        "thumbnail": "https://i.dummyjson.com/data/products/9/thumbnail.jpg",
+        "images": [
+          "https://medias.musimundo.com/medias/00540011-146096-146096-01-146096-01.jpg-size300?context=bWFzdGVyfGltYWdlc3w1NTA4OHxpbWFnZS9qcGVnfGg4MC9oOTIvMTAzOTc5MTI1MzA5NzQvMDA1NDAwMTEtMTQ2MDk2LTE0NjA5Nl8wMS0xNDYwOTZfMDEuanBnX3NpemUzMDB8NWMzYjRhYTE5MDA5MDY0ZGZmZmU4Njg4ZjM2MjQ1ODBkMWExMTA3ZDNjMzlkMDlhMjc0YTVhODA3YWZmNjdiMg",
+          "https://i.dummyjson.com/data/products/9/2.png",
+          "https://i.dummyjson.com/data/products/9/3.png",
+          "https://i.dummyjson.com/data/products/9/4.jpg",
+          "https://i.dummyjson.com/data/products/9/thumbnail.jpg"
+        ]
+      },
+      {
+        "id": "2342342",
+        "title": "CELULAR SAMSUNG A23 / SM-A235M CELESTE",
+        "description": "HP Pavilion 15-DK1056WM Gaming Laptop 10th Gen Core i5, 8GB, 256GB SSD, GTX 1650 4GB, Windows 10",
+        "price": 1099,
+        "discountPercentage": 6.18,
+        "rating": 4.43,
+        "stock": 89,
+        "brand": "HP Pavilion",
+        "category": "laptops",
+        "thumbnail": "https://i.dummyjson.com/data/products/10/thumbnail.jpeg",
+        "images": [
+          "https://medias.musimundo.com/medias/00540012-146097-146097-01-146097-01.jpg-size300?context=bWFzdGVyfGltYWdlc3w1Nzc4NXxpbWFnZS9qcGVnfGhiMi9oMTYvMTAzODE4NTA2NDA0MTQvMDA1NDAwMTItMTQ2MDk3LTE0NjA5N18wMS0xNDYwOTdfMDEuanBnX3NpemUzMDB8ZjVhMjVlNzVhZDk5NzI0ZmQ3YmY3YzQ0ZjNhOTdjYmQ1ZjM5OTMyOTg3ZDU2ZDQwMGQxMmY1YWUxMDI4YzI0OA",
+          "https://i.dummyjson.com/data/products/10/2.jpg",
+          "https://i.dummyjson.com/data/products/10/3.jpg",
+          "https://i.dummyjson.com/data/products/10/thumbnail.jpeg"
+        ]
+      },
+      {
+        "id": "113423",
+        "title": "SMART LED TV SAMSUNG 43 PULGADAS FULL HD",
+        "description": "Mega Discount, Impression of Acqua Di Gio by GiorgioArmani concentrated attar perfume Oil",
+        "price": 1300,
+        "discountPercentage": 8.4,
+        "rating": 4.26,
+        "stock": 65,
+        "brand": "Impression of Acqua Di Gio",
+        "category": "fragrances",
+        "thumbnail": "https://i.dummyjson.com/data/products/11/thumbnail.jpg",
+        "images": [
+          "https://medias.musimundo.com/medias/00313068-140728-140728-01-140728-01.jpg-size515?context=bWFzdGVyfGltYWdlc3w1ODAxM3xpbWFnZS9qcGVnfGgwZS9oOWEvMTAzNzk4MTkxODgyNTQvMDAzMTMwNjgtMTQwNzI4LTE0MDcyOF8wMS0xNDA3MjhfMDEuanBnX3NpemU1MTV8MmVhMzgxY2RiN2RhY2Q0NGQzMTA0NjdmMTA1OGM4NDk3ZDRiM2YxMzkxMmM4ZmI3NGQzNzk4YTRlNGU5ODY1YQ",
+          "https://i.dummyjson.com/data/products/11/2.jpg",
+          "https://i.dummyjson.com/data/products/11/3.jpg",
+          "https://i.dummyjson.com/data/products/11/thumbnail.jpg"
+        ]
+      },
+      {
+        "id": "123452",
+        "title": "SMART LED TV NOBLEX 32 PULGADAS HD DK32X5000",
+        "description": "Royal_Mirage Sport Brown Perfume for Men & Women - 120ml",
+        "price": 4000,
+        "discountPercentage": 15.66,
+        "rating": 4,
+        "stock": 52,
+        "brand": "Royal_Mirage",
+        "category": "fragrances",
+        "thumbnail": "https://i.dummyjson.com/data/products/12/thumbnail.jpg",
+        "images": [
+          "https://medias.musimundo.com/medias/00444000-144917-144917-01-144917-01.jpg-size515?context=bWFzdGVyfGltYWdlc3w4MzEzNnxpbWFnZS9qcGVnfGgxMy9oMmYvMTA0MTM4NDMxMjAxNTgvMDA0NDQwMDAtMTQ0OTE3LTE0NDkxN18wMS0xNDQ5MTdfMDEuanBnX3NpemU1MTV8NDgzZWVjYjU1NDIyY2E5ZDVkNWJkNTY1NjljOTJiODg0NDE0M2JhODdiMjdmOTlkZWFlM2ViODczOWU4NWYzYQ",
+          "https://i.dummyjson.com/data/products/12/2.jpg",
+          "https://i.dummyjson.com/data/products/12/3.png",
+          "https://i.dummyjson.com/data/products/12/4.jpg",
+          "https://i.dummyjson.com/data/products/12/thumbnail.jpg"
+        ]
+      },
+      {
+        "id": "13123",
+        "title": "SMART LED ANDROID TV TCL 32 PULGADAS HD",
+        "description": "Product details of Best Fog Scent Xpressio Perfume 100ml For Men cool long lasting perfumes for Men",
+        "price": 1300,
+        "discountPercentage": 8.14,
+        "rating": 4.59,
+        "stock": 61,
+        "brand": "Fog Scent Xpressio",
+        "category": "fragrances",
+        "thumbnail": "https://i.dummyjson.com/data/products/13/thumbnail.webp",
+        "images": [
+          "https://medias.musimundo.com/medias/00616015-147216-147216-01-147216-01.jpg-size515?context=bWFzdGVyfGltYWdlc3w1MjE3N3xpbWFnZS9qcGVnfGhkNy9oMTMvMTA0NDE1MjY3MDYyMDYvMDA2MTYwMTUtMTQ3MjE2LTE0NzIxNl8wMS0xNDcyMTZfMDEuanBnX3NpemU1MTV8YTA1MWM3MGEyNzI4ZjAxMWQ0NTk4MmE3NzI3Mzk0ZWE4OGI5YmRiYzJkZjc1NTgwNWJiZTY1ZDI3ZjI3YWFlOQ",
+          "https://i.dummyjson.com/data/products/13/2.png",
+          "https://i.dummyjson.com/data/products/13/3.jpg",
+          "https://i.dummyjson.com/data/products/13/4.jpg",
+          "https://i.dummyjson.com/data/products/13/thumbnail.webp"
+        ]
+      },
+      {
+        "id": "14123",
+        "title": "NOTEBOOK ACER A315-34-C52Q DUAL-CORE",
+        "description": "Original Al Munakh® by Mahal Al Musk | Our Impression of Climate | 6ml Non-Alcoholic Concentrated Perfume Oil",
+        "price": 1200,
+        "discountPercentage": 15.6,
+        "rating": 4.21,
+        "stock": 114,
+        "brand": "Al Munakh",
+        "category": "fragrances",
+        "thumbnail": "https://i.dummyjson.com/data/products/14/thumbnail.jpg",
+        "images": [
+          "https://medias.musimundo.com/medias/00514000-145556-145556-01-145556-01.jpg-size515?context=bWFzdGVyfGltYWdlc3w3MjQxNnxpbWFnZS9qcGVnfGhjZS9oNGMvMTAzODE2OTg0OTg1OTAvMDA1MTQwMDAtMTQ1NTU2LTE0NTU1Nl8wMS0xNDU1NTZfMDEuanBnX3NpemU1MTV8NzI0ZDkyNjg5OTU1Y2I4NTljZmYxZGI2NDk3OTE3YjQyYjZjZTY1ZTA0OTQ1ZGE4MWYxMWRlN2MxYjM0NGJlMg",
+          "https://i.dummyjson.com/data/products/14/2.jpg",
+          "https://i.dummyjson.com/data/products/14/3.jpg",
+          "https://i.dummyjson.com/data/products/14/thumbnail.jpg"
+        ]
+      },
+      {
+        "id": "1233",
+        "title": "NOTEBOOK ACER A315-34-C7RP INTEL CELERON",
+        "description": "Genuine  Al-Rehab spray perfume from UAE/Saudi Arabia/Yemen High Quality",
+        "price": 3000,
+        "discountPercentage": 10.99,
+        "rating": 4.7,
+        "stock": 105,
+        "brand": "Lord - Al-Rehab",
+        "category": "fragrances",
+        "thumbnail": "https://i.dummyjson.com/data/products/15/thumbnail.jpg",
+        "images": [
+          "https://medias.musimundo.com/medias/00302145-177082-177082-01.png-177082-01.png-size515?context=bWFzdGVyfGltYWdlc3w1NDkyODB8aW1hZ2UvcG5nfGhkMy9oYzYvMTAzODA1OTI2MTEzNTgvMDAzMDIxNDUtMTc3MDgyLTE3NzA4Ml8wMS5wbmctMTc3MDgyXzAxLnBuZ19zaXplNTE1fDNhYzZmMTBhOTQ3NzM2ZDc1YjYyNmJkMjcwZmRkZjMyNzRmODRmMzgwOGM5YWJkODA5YzgzMjFkZDgyZWE4MzE",
+          "https://i.dummyjson.com/data/products/15/2.jpg",
+          "https://i.dummyjson.com/data/products/15/3.jpg",
+          "https://i.dummyjson.com/data/products/15/4.jpg",
+          "https://i.dummyjson.com/data/products/15/thumbnail.jpg"
+        ]
+      },
+      {
+        "id": "16123",
+        "title": "NOTEBOOK HP HP 240 G8 / 2Q9S5LT INTEL CELERON",
+        "description": "L'OrÃ©al Paris introduces Hyaluron Expert Replumping Serum formulated with 1.5% Hyaluronic Acid",
+        "price": 1965,
+        "discountPercentage": 13.31,
+        "rating": 4.83,
+        "stock": 110,
+        "brand": "L'Oreal Paris",
+        "category": "skincare",
+        "thumbnail": "https://i.dummyjson.com/data/products/16/thumbnail.jpg",
+        "images": [
+          "https://medias.musimundo.com/medias/00511042-144160-144160-01-144160-01.jpg-size515?context=bWFzdGVyfGltYWdlc3w2MTY1MXxpbWFnZS9qcGVnfGgwOS9oZjYvMTAzODA4ODExMzM1OTgvMDA1MTEwNDItMTQ0MTYwLTE0NDE2MF8wMS0xNDQxNjBfMDEuanBnX3NpemU1MTV8OTMxYWY4ZjQyNGJiMGNmNjlmZTIxMmEzMWQ2NWNkMjY0ZTEyYTFlYjgwM2VhMGM3YTU5YmY0Y2U0NmZkNmI0Yw",
+          "https://i.dummyjson.com/data/products/16/2.webp",
+          "https://i.dummyjson.com/data/products/16/3.jpg",
+          "https://i.dummyjson.com/data/products/16/4.jpg",
+          "https://i.dummyjson.com/data/products/16/thumbnail.jpg"
+        ]
+      }
+    ],
+    "total": 100,
+    "skip": 0,
+    "limit": 30
+  }
